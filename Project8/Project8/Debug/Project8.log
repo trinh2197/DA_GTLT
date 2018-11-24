@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\admin\desktop\dagtlt-phan thị ngọc trinh\project8\project8\source.cpp(118): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\dagtlt-phan thị ngọc trinh\project8\project8\source.cpp(197): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\desktop\dagtlt-phan thị ngọc trinh\project8\project8\source.cpp(199): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project8.vcxproj -> C:\Users\Admin\Desktop\DAGTLT-Phan Thị Ngọc Trinh\Project8\Debug\Project8.exe
